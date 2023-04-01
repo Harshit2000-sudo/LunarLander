@@ -35,3 +35,7 @@ from huggingface_sb3 import load_from_hub
 
 ...
 ```
+Demo:
+
+https://user-images.githubusercontent.com/78033216/229301405-e116f8ca-f6b9-4ccc-9e31-b1bdda06b4f4.mp4
+
