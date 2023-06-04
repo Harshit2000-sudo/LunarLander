@@ -37,8 +37,4 @@ from huggingface_sb3 import load_from_hub
 ```
 Demo:
 
-<video src='https://github.com/Harshit2000-sudo/LunarLander/assets/78033216/7454f251-0bc0-4f03-ba17-fbe1c308cdca' width=256/>
-
-
-
-
+https://user-images.githubusercontent.com/78033216/229301405-e116f8ca-f6b9-4ccc-9e31-b1bdda06b4f4.mp4
